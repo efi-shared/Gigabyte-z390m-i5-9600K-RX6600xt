@@ -15,3 +15,7 @@ Hackintosh EFI by OpenCore
 
 ### macOS monterey
 ![](Resources/about.png)
+
+
+### Bootloader
+![](Resources/boot.png)
