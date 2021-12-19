@@ -2,7 +2,7 @@ Hackintosh EFI by OpenCore
 
 ### Hardware
 |  |    |
-| ---------- | -------------            | 
+| ---------- | -------------        | 
 |CPU      | i5-9600K             | 
 | Mainboard     | Gigabyte z390m | 
 | GraphicCard     | Sapphire Rx 6600xt OC  |
@@ -11,7 +11,7 @@ Hackintosh EFI by OpenCore
 | Disk     |  M.2 1T          |
 
 ### Versions
-- OpenCore 0.7.4 (tag v0.7.4)
+- OpenCore 0.7.6 (tag v0.7.6)
 
 ### macOS monterey
 ![](Resources/about.png)
