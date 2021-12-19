@@ -1,0 +1,1 @@
+# Gigabyte-z390m-i5-9600K-RX6600xt
